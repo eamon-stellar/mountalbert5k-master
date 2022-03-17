@@ -18,6 +18,7 @@ const Foot = styled.div`
   display: flex;
   flex-direction: column;
   align-items:center;
+  padding-bottom:1rem;
 
 `
 const Pagecontent = styled.div`
